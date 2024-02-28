@@ -50,6 +50,7 @@ en: &DEFAULT_EN
   search_algolia_no_results  : "No results"
   results_found              : "Result(s) found"
   back_to_top                : "Back to top"
+  contact_label              : "Contact:"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -109,6 +110,7 @@ es: &DEFAULT_ES
   search_algolia_no_results  :
   results_found              : "resultado(s) encontrado(s)"
   back_to_top                : "Volver arriba"
+  contact_label              : "Contact:"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
@@ -164,6 +166,7 @@ fr: &DEFAULT_FR
   search_algolia_no_results  :
   results_found              : "Résultat(s) trouvé(s)"
   back_to_top                : "Retour en haut"
+  contact_label              : "Contact:"
 fr-FR:
   <<: *DEFAULT_FR
 fr-BE:
@@ -218,6 +221,7 @@ tr: &DEFAULT_TR
   loading_label              : "Yükleniyor..."
   search_label_text          :
   search_algolia_no_results  :
+  contact_label              : "Contact:"
 tr-TR:
   <<: *DEFAULT_TR
 
@@ -268,6 +272,7 @@ pt: &DEFAULT_PT
   loading_label              : "A carregar..."
   search_label_text          :
   search_algolia_no_results  :
+  contact_label              : "Contact:"
 pt-PT:
   <<: *DEFAULT_PT
 # Brazilian Portuguese
@@ -319,6 +324,7 @@ pt-BR:
   search_algolia_no_results  : "Nenhum resultado"
   results_found              : "Resultado(s) encontrado(s)"
   back_to_top                : "Voltar para o topo"
+  contact_label              : "Contact:"
 
 # Italian
 # -------
@@ -370,6 +376,7 @@ it: &DEFAULT_IT
   search_algolia_no_results  :
   results_found              : "Risultati"
   back_to_top                : "Vai su"
+  contact_label              : "Contact:"
 it-IT:
   <<: *DEFAULT_IT
 
@@ -423,6 +430,7 @@ zh: &DEFAULT_ZH_HANS
   search_algolia_no_results  : "无结果"
   results_found              : "条记录匹配"
   back_to_top                : "返回顶部"
+  contact_label              : "Contact:"
 zh-CN:
   <<: *DEFAULT_ZH_HANS
 zh-SG:
@@ -476,6 +484,7 @@ zh-TW: &DEFAULT_ZH_HANT
   search_algolia_no_results  : "沒有結果"
   results_found              : "條匹配的記錄"
   back_to_top                : "回到頂部"
+  contact_label              : "Contact:"
 zh-HK:
   <<: *DEFAULT_ZH_HANT
 
@@ -528,6 +537,7 @@ de: &DEFAULT_DE
   search_placeholder_text    : "Suchbegriff eingeben..."
   search_algolia_no_results  :
   results_found              : "Ergebnis(se) gefunden"
+  contact_label              : "Contact:"
 de-DE:
   <<: *DEFAULT_DE
 de-AT:
@@ -588,6 +598,7 @@ ne: &DEFAULT_NE
   loading_label              : "लोड हुँदैछ ..."
   search_label_text          :
   search_algolia_no_results  :
+  contact_label              : "Contact:"
 ne-NP:
   <<: *DEFAULT_NE
 
@@ -641,6 +652,7 @@ ko: &DEFAULT_KO
   search_algolia_no_results  :
   results_found              : "개 결과 발견"
   back_to_top                : "맨 위로 이동"
+  contact_label              : "Contact:"
 ko-KR:
   <<: *DEFAULT_KO
 
@@ -693,6 +705,7 @@ ru: &DEFAULT_RU
   search_placeholder_text    : "Введите поисковый запрос..."
   search_algolia_no_results  :
   results_found              : "Найдено"
+  contact_label              : "Contact:"
 ru-RU:
   <<: *DEFAULT_RU
 
@@ -743,6 +756,7 @@ lt: &DEFAULT_LT
   loading_label              : "Kraunama..."
   search_label_text          :
   search_algolia_no_results  :
+  contact_label              : "Contact:"
 lt-LT:
   <<: *DEFAULT_LT
 
@@ -795,6 +809,7 @@ gr: &DEFAULT_GR
   search_placeholder_text    : "Εισάγετε όρο αναζήτησης..."
   search_algolia_no_results  :
   results_found              : "Αποτελέσματα"
+  contact_label              : "Contact:"
 gr-GR:
   <<: *DEFAULT_GR
 
@@ -848,6 +863,7 @@ sv: &DEFAULT_SV
   search_algolia_no_results  :
   results_found              : "Resultat funna"
   back_to_top                : "Tillbaka till toppen"
+  contact_label              : "Contact:"
 sv-SE:
   <<: *DEFAULT_SV
 sv-FI:
@@ -903,6 +919,7 @@ nl: &DEFAULT_NL
   search_algolia_no_results  :
   results_found              : "Resultaat gevonden"
   back_to_top                : "Terug naar boven"
+  contact_label              : "Contact:"
 nl-BE:
   <<: *DEFAULT_NL
 nl-NL:
@@ -958,6 +975,7 @@ id: &DEFAULT_ID
   search_algolia_no_results  : "Tidak ada hasil"
   results_found              : "Hasil pencarian ditemukan"
   back_to_top                : "Kembali ke awal"
+  contact_label              : "Contact:"
 id-ID:
   <<: *DEFAULT_ID
 
@@ -1011,6 +1029,7 @@ vi: &DEFAULT_VI
   search_algolia_no_results  : "Không tìm thấy kết quả nào"
   results_found              : "Kết quả tìm được"
   back_to_top                : "Lên đầu trang"
+  contact_label              : "Contact:"
 vi-VN:
   <<: *DEFAULT_VI
 
@@ -1064,6 +1083,7 @@ da: &DEFAULT_DA
   search_algolia_no_results  : "Ingen resultater"
   results_found              : "Resultat(er) fundet"
   back_to_top                : "Tilbage til toppen"
+  contact_label              : "Contact:"
 da-DK:
   <<: *DEFAULT_DA
 
@@ -1114,6 +1134,7 @@ pl: &DEFAULT_PL
   loading_label              : "Trwa ładowanie strony..."
   search_label_text          :
   search_algolia_no_results  : "Brak wyników"
+  contact_label              : "Contact:"
 pl-PL:
   <<: *DEFAULT_PL
 
@@ -1166,6 +1187,7 @@ ja: &DEFAULT_JA
   search_placeholder_text    : "検索キーワードを入力してください..."
   search_algolia_no_results  :
   results_found              : "件"
+  contact_label              : "Contact:"
 ja-JP:
   <<: *DEFAULT_JA
 
@@ -1219,6 +1241,7 @@ sk: &DEFAULT_SK
   search_algolia_no_results  :
   results_found              : "Nájdených výsledkov"
   back_to_top                : "Na začiatok stránky"
+  contact_label              : "Contact:"
 sk-SK:
   <<: *DEFAULT_SK
 
@@ -1272,6 +1295,7 @@ hu: &DEFAULT_HU
   search_algolia_no_results  :
   results_found              : "Találatok:"
   back_to_top                : "Oldal tetejére"
+  contact_label              : "Contact:"
 hu-HU:
   <<: *DEFAULT_HU
 
@@ -1325,6 +1349,7 @@ ro: &DEFAULT_RO
   search_algolia_no_results  :
   results_found              : "Rezultate găsite"
   back_to_top                : "Înapoi în susul paginii"
+  contact_label              : "Contact:"
 ro-RO:
   <<: *DEFAULT_RO
 
@@ -1378,6 +1403,7 @@ pa: &DEFAULT_PA
   search_algolia_no_results  :
   results_found              : "ਨਤੀਜਾ ਮਿਲਿਆ/ਮਿਲੇ"
   back_to_top                : "ਵਾਪਸ ਚੋਟੀ 'ਤੇ ਜਾਓ"
+  contact_label              : "Contact:"
 pa-IN:
   <<: *DEFAULT_PA
 
@@ -1430,6 +1456,7 @@ fa: &DEFAULT_FA
   search_algolia_no_results  :
   results_found              : "نتایج"
   back_to_top                : "بازگشت به بالا"
+  contact_label              : "Contact:"
 fa-IR:
   <<: *DEFAULT_FA
 
@@ -1484,6 +1511,7 @@ ml: &DEFAULT_ML
   search_algolia_no_results  :
   results_found              : "ഫലം (കൾ) കണ്ടെത്തി"
   back_to_top                : "മുകളിലേയ്ക്ക്"
+  contact_label              : "Contact:"
 ml-IN:
   <<: *DEFAULT_ML
 
@@ -1537,6 +1565,7 @@ th: &DEFAULT_TH
   search_algolia_no_results  :
   results_found              : "ผลการค้นหา พบ"
   back_to_top                : "กลับด้านบน"
+  contact_label              : "Contact:"
 th-TH:
   <<: *DEFAULT_TH
 
@@ -1589,6 +1618,7 @@ hi: &DEFAULT_HI
   search_algolia_no_results  :
   results_found              : "परिणाम मिला/मिले"
   back_to_top                : "शीर्ष पर वापस"
+  contact_label              : "Contact:"
 hi-IN:
   <<: *DEFAULT_HI
 
@@ -1642,6 +1672,7 @@ ca: &DEFAULT_CA
   search_algolia_no_results  :
   results_found              : "resultat(s)"
   back_to_top                : "Torna a dalt"
+  contact_label              : "Contact:"
 ca-ES:
   <<: *DEFAULT_CA
 
@@ -1689,6 +1720,7 @@ ga: &DEFAULT_GA
   search_algolia_no_results  :
   results_found              : "Torthaí aimsithe"
   back_to_top                : "Ar ais go barr"
+  contact_label              : "Contact:"
 ga-IE:
   <<: *DEFAULT_GA
 
@@ -1743,6 +1775,7 @@ fi: &DEFAULT_FI
   search_algolia_no_results  :
   results_found              : "Tulosta"
   back_to_top                : "Ylös"
+  contact_label              : "Contact:"
 
 # Myanmar (Burmese)
 # -----------------
@@ -1794,6 +1827,7 @@ my: &DEFAULT_MY
   search_algolia_no_results  :
   results_found              : "ရလဒ်(များ)ကိုတွေ့ရှိခဲ့သည်"
   back_to_top                : "အပေါ်သို့ပြန်သွား"
+  contact_label              : "Contact:"
 my-MM:
   <<: *DEFAULT_MY
 
@@ -1847,6 +1881,7 @@ no: &DEFAULT_NO
   search_algolia_no_results  : "Ingen treff"
   results_found              : "Treff funnet"
   back_to_top                : "Tillbake til toppen"
+  contact_label              : "Contact:"
 no-NB:
   <<: *DEFAULT_NO
 no-NN:
@@ -1902,6 +1937,7 @@ he: &DEFAULT_HE
   search_algolia_no_results  : "אין תוצאות"
   results_found              : "תוצאות נמצאו"
   back_to_top                : "חזרה להתחלה"
+  contact_label              : "Contact:"
 he-IL:
   <<: *DEFAULT_HE
 
@@ -1955,6 +1991,7 @@ ar: &DEFAULT_AR
   search_algolia_no_results  : "لا توجد نتائج"
   results_found              : "تم إيجاد نتيجة"
   back_to_top                : "الانتقال الى الأعلى"
+  contact_label              : "Contact:"
 ar-SD:
   <<: *DEFAULT_AR
 ar-SA:
@@ -2014,6 +2051,7 @@ sw: &DEFAULT_SW
   search_algolia_no_results  : "Hakuna matokeo"
   results_found              : "Tumepata"
   back_to_top                : "Rudi juu"
+  contact_label              : "Contact:"
 sw-KE:
   <<: *DEFAULT_SW
 sw-TZ:
