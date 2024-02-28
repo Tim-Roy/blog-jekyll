@@ -68,7 +68,7 @@ $(function() {
       navClass: "active", // applied to the nav list item
       contentClass: "active", // applied to the content
 
-      // Nested navigation
+      // Nested
       nested: false, // if true, add classes to parents of active link
       nestedClass: "active", // applied to the parent items
 
