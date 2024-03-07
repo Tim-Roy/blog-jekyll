@@ -16,7 +16,7 @@ minimal_mistakes_skin    : contrast # "default", # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tim Roy Rambles"
+title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tim Roy"
@@ -110,11 +110,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Adventure loving data nerd"
   location         : "Portland, OR"
-  email            : timroy@pm.me
+  # email            : tim@timroy.me
   links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "timroy@pm.me"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "tim@timroy.me"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
