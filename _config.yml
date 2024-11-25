@@ -134,7 +134,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/timothyroy7/"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
+      icon: "fab fa-fw fa-square-bluesky"
       url: "https://bsky.app/profile/timroy.bsky.social"
 
 # Site Footer
