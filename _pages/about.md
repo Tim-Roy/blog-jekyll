@@ -24,7 +24,7 @@ I graduated with my BA in Math with a concentration in actuarial science and pas
 As the field emerged, I decided to specialize in machine learning and big data and stated taking courses while working full-time to earn my MS in Statistics, graduating in 2016 (DS, ML, and AI degrees were still not very common). I then pivoted my career to focus on machine learning and data science.
 </p>
 <p>
-I love using machine learning and predictive modeling to build things. I have a wide range of interests: deep learning, MCMC, Bayesian modeling, database management, MLOps, stochastic modeling, LLMs, computer vision, A/B testing, causal modeling, ETL...
+I love using machine learning and predictive modeling to build things. I have a wide range of interests: LLMs, deep learning, MCMC, Bayesian modeling, database management, MLOps, stochastic modeling, LLMs, computer vision, A/B testing, causal modeling, ETL...
 </p>
 <p>
 I spent ten years in health and insurance, becoming a subject matter expert in risk management and mortality. The last few years I have moved away from insurance and to modern tech: working for SAS and social media (Instagram).

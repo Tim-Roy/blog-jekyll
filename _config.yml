@@ -110,31 +110,17 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Adventure loving data nerd"
   location         : "Portland, OR"
-  # email            : tim@timroy.me
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-envelope-square"
       url: "tim@timroy.me"
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   # url: "https://your-website.com"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   # url: "https://twitter.com/"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/Tim-Roy/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   # url: "https://instagram.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/timothyroy7/"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-square-bluesky"
+      icon: "fab fa-bluesky"
       url: "https://bsky.app/profile/timroy.bsky.social"
 
 # Site Footer
@@ -156,7 +142,10 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"   
+      icon: "fab fa-fw fa-instagram"
+
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
       # url:
 
 
