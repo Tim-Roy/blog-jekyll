@@ -182,6 +182,9 @@ defs = Definitions(
 
 Thank you for reading all the way through! If you're considering adopting this approach or have any questions, feel free to reach out. Below is a screenshot of a completed run in the Dagster UI. I find this view particularly helpful because it provides a clear starting point for debugging, especially when a variety of issues can lead to failures. From here, I can quickly identify and address any problems with ease.
 
+
 <figure class="align-center">
   <img src="/assets/images/dagster-yt.png" alt="YT-DLP on Dagster">
 </figure>
+
+**UPDATE:** I have received requests to share the source code; you can find the ugly-but-works code [here](https://github.com/Tim-Roy/dagster-ytdlp).
