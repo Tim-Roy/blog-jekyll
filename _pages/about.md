@@ -9,26 +9,26 @@ author_profile: true
 </figure>
 
 <p>
-Hi! Thanks for visiting my humble little blog. Here I post about my interests, mainly professional but occasionally will extra-curricular activities.
+Hi! Welcome to my humble little blog, where I share my thoughts and interests. Most of my posts focus on professional topics, but I occasionally post about extracurricular activities.
 </p>
 <p>
-I have loved math and data since as far as I can remember. In elementary school, I would stay awake at night and study sports encyclopedias and farmers' almanacs.
+I've been passionate about math and data for as long as I can remember. As a kid, I would stay up late studying sports encyclopedias and farmers' almanacs.
 </p>
 <p>
-When I first went to college, I planned on becoming a sports writer. I didn’t sustain the passion and took 2 years off making a living bartending. After a chance conversation while working, I learned about actuarial science: the bookies of the insurance world. So I decided that's what I was going to do.
+When I first went to college, I had plans to become a sports writer. However, my passion didn't sustain, and I took two years off to make a living bartending. A chance conversation during that time introduced me to actuarial science — essentially the "bookies" of the insurance world — and I decided to head down that path.
 </p>
 <p>
-I graduated with my BA in Math with a concentration in actuarial science and passed 2 exams before graduation. 2009 was a tough year to enter the workforce, but I was lucky enough to land a job in an accelerated developmental program at Genworth in Richmond, VA. I spent over 7 years there and after years of late nights studying, I passed all of the required exams and earned my Fellowship in the  Society of Actuaries (FSA) and Chartered Enterprise Risk Analyst (CERA).
+I earned my BA in Mathematics with a concentration in actuarial science, passing two actuarial exams before graduation. 2009 was a rough year to enter the workforce, but I was fortunate to secure a position in an accelerated development program at Genworth Insurance in Richmond, VA. Over the next seven years, I dedicated myself to late-night study sessions, eventually earning my Fellowship in the Society of Actuaries (FSA) and becoming a Chartered Enterprise Risk Analyst (CERA).
 </p>
 <p>
-As the field emerged, I decided to specialize in machine learning and big data and stated taking courses while working full-time to earn my MS in Statistics, graduating in 2016 (DS, ML, and AI degrees were still not very common). I then pivoted my career to focus on machine learning and data science.
+As machine learning and big data began to grow and enter my purview, I opted to specialize in these areas. While working full-time, I pursued and completed an MS in Statistics in 2016—before dedicated degrees in data science, machine learning, and AI were commonplace. This pivot allowed me to transition my career to focus on machine learning and data science.
 </p>
 <p>
-I love using machine learning and predictive modeling to build things. I have a wide range of interests: LLMs, deep learning, MCMC, Bayesian modeling, database management, MLOps, stochastic modeling, LLMs, computer vision, A/B testing, causal modeling, ETL...
+I have a deep passion for building things with machine learning and predictive modeling. My interests span a broad spectrum, including LLMs, deep learning, MCMC, Bayesian modeling, database management, MLOps, stochastic modeling, computer vision, A/B testing, causal modeling, and ETL, to name a few.
 </p>
 <p>
-I spent ten years in health and insurance, becoming a subject matter expert in risk management and mortality. The last few years I have moved away from insurance and to modern tech: working for SAS and social media (Instagram).
+I spent a decade in the health and insurance industries, where I became a subject matter expert in risk management and mortality. In recent years, I transitioned to modern tech, working in SAS, social media at Instagram, and now in AI research.
 </p>
 <p>
-Outside of work I am a die-hard Denver Broncos fan. I live in Portland, OR with my partner and our dog. I started home-labbing during the beginning of the pandemic and slowly have found self-hosting addicting. I spend my weekends and days off exploring the wonders of the Pacific Northwest. I trail run, snowboard, hike, backpack, rock climb, camp, and have dabbled in other activities. I have completed 6 marathons, including 2 sub 3-hour finishes. Always looking for the next adventure!
+Outside of work, I’m a die-hard Denver Broncos fan. I live in Portland, OR, with my partner and our dog. During the pandemic, I discovered home-labbing, which quickly became an addicting hobby. On weekends and days off, I explore the wonders of the Pacific Northwest. I enjoy trail running, snowboarding, hiking, backpacking, rock climbing, and camping—and I’ve dabbled in many other outdoor activities. I’ve also completed six marathons, including two sub-3-hour finishes. I’m always keeping an for my next adventure!
 </p>
